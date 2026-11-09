@@ -1,0 +1,30 @@
+STATUS: Logo resmi SUDAH TERPASANG di folder ini (bca, bni, bri, mandiri, bsi,
+permata, cimb, gopay, shopeepay, qris, card .png). Halaman checkout otomatis memakainya.
+Sumber: Wikimedia Commons & materi brand resmi. Logo adalah merek dagang pemiliknya.
+
+MENGGANTI LOGO PEMBAYARAN DENGAN LOGO RESMI
+===========================================
+
+Taruh file logo resmi di folder INI (assets/img/payment/) dengan nama persis seperti di bawah.
+Format boleh svg, png, webp, jpg, jpeg, atau gif. Tidak perlu mengubah kode apa pun.
+Kalau file tidak ada, website memakai logo sementara dari folder placeholder/.
+
+  bca       -> BCA Virtual Account
+  bni       -> BNI Virtual Account
+  bri       -> BRI Virtual Account
+  mandiri   -> Mandiri Bill Payment
+  bsi       -> BSI Virtual Account
+  permata   -> Permata Virtual Account
+  cimb      -> CIMB Niaga Virtual Account
+  gopay     -> GoPay
+  shopeepay -> ShopeePay
+  qris      -> QRIS
+  card      -> Visa / Mastercard / JCB
+
+Contoh: simpan logo BNI sebagai  assets/img/payment/bni.png
+
+Tips:
+- Pakai latar putih/transparan, tinggi sekitar 100-200 px (tampil setinggi 36 px).
+- Unduh dari halaman brand/press kit resmi masing-masing bank atau dari materi logo Midtrans.
+  Logo bank adalah merek dagang, ikuti panduan penggunaan dari pemiliknya.
+- Setelah mengganti, tekan Ctrl+F5 di browser agar cache hilang.

@@ -1,0 +1,16 @@
+# Konfigurasi rahasia
+config/config.local.php
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Log & sementara
+*.log
+*.tmp
+
+# Dependensi (jika suatu saat dipakai)
+/vendor/
+/node_modules/
